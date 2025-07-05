@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayeshhdeveloper55/Modern-Web-App-Development/c5fee494aee323fc25495e0266716022e2a8cca6/web%20develop.PNG" alt="Web Development Screenshot" width="1000"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayeshhdeveloper55/Modern-Web-App-Development/1768b914a22d4503b66c2e94fc36c68b570a31bf/logos.PNG" width="900" alt="Technologies Logo"/>
+</p>
 
 
 
