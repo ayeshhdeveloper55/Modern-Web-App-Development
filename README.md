@@ -1,5 +1,9 @@
  <center><h1>Modern  Web App Development</h1></center>
- ![image]( https://github.com/ayeshhdeveloper55/Modern-Web-App-Development/commit/c5fee494aee323fc25495e0266716022e2a8cca6)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayeshhdeveloper55/Modern-Web-App-Development/c5fee494aee323fc25495e0266716022e2a8cca6/web%20develop.PNG" alt="Web Development Screenshot" width="1000"/>
+</p>
+
+
 
 
  ## Module 1: Web Designing
